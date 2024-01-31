@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pz2", "Pz2\Pz2.csproj", "{CE9241EB-B37C-4FFC-9894-2799647FDFE2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{1AB6F6D1-567F-4E3B-9077-23518EC49911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9241EB-B37C-4FFC-9894-2799647FDFE2}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{CE9241EB-B37C-4FFC-9894-2799647FDFE2}.Debug|Default.Build.0 = Debug|Any CPU
+		{CE9241EB-B37C-4FFC-9894-2799647FDFE2}.Release|Default.ActiveCfg = Release|Any CPU
+		{CE9241EB-B37C-4FFC-9894-2799647FDFE2}.Release|Default.Build.0 = Release|Any CPU
+		{1AB6F6D1-567F-4E3B-9077-23518EC49911}.Debug|Default.ActiveCfg = Debug
+		{1AB6F6D1-567F-4E3B-9077-23518EC49911}.Release|Default.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85374B2C-A1F8-4769-B59E-A01976CEB0E7}
+	EndGlobalSection
+EndGlobal
